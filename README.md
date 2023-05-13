@@ -30,5 +30,3 @@
       <a href="https://www.instagram.com/squarae/" target="_blank"><img title="Talvez eu poste alguma coisa de util. . ." src="https://img.shields.io/badge/instagram-000000?style-for-thebadge&logo=instagram"></a>
       <a href="https://www.twitch.tv/quadradooo" target="_blank"><img title="Talvez eu poste alguma coisa de util. . ." src="https://img.shields.io/badge/twitch-000000?style-for-thebadge&logo=twitch" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/Squarae/Squarae/blob/output/github-contribution-grid-snake.svg)
